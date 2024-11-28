@@ -23,4 +23,6 @@ This is a simple weather application built with React that allows users to check
 - OpenWeatherMap API
 
 ## Screenshots
-![Weather App Main Screen](https://https://github.com/Om21o7/Comp3123_Lab2/blob/main/s1.jpg)
+
+![Weather App Screenshot](./screenshots/s2.jpg)
+![Postman Screenshot](./screenshots/s1.jpg)
